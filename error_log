@@ -1,0 +1,11 @@
+[15-Apr-2020 16:19:11 UTC] Astra: db version updated successfully!
+[15-Apr-2020 16:19:11 UTC] Astra: Batch Process Completed!
+[15-Apr-2020 17:40:08 UTC] Astra: db version updated successfully!
+[15-Apr-2020 17:40:08 UTC] Astra: Batch Process Completed!
+[22-Apr-2020 14:55:39 UTC] Astra: db version updated successfully!
+[22-Apr-2020 15:05:18 UTC] Astra: db version updated successfully!
+[22-Apr-2020 15:05:18 UTC] Astra: Batch Process Completed!
+[07-Jul-2020 19:29:30 UTC] order_total was called incorrectly. Order properties should not be accessed directly. Backtrace: require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::do_wc_ajax, do_action('wc_ajax_checkout'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::checkout, WC_Checkout->process_checkout, WC_Checkout->process_order_payment, WC_myghpay_client->process_payment, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[07-Jul-2020 19:29:31 UTC] The WC_Order::reduce_order_stock function is deprecated since version 3.0. Replace with wc_reduce_stock_levels.
+[07-Jul-2020 19:29:31 UTC] id was called incorrectly. Order properties should not be accessed directly. Backtrace: require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::do_wc_ajax, do_action('wc_ajax_checkout'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::checkout, WC_Checkout->process_checkout, WC_Checkout->process_order_payment, WC_myghpay_client->process_payment, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[07-Jul-2020 19:29:31 UTC] order_key was called incorrectly. Order properties should not be accessed directly. Backtrace: require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::do_wc_ajax, do_action('wc_ajax_checkout'), WP_Hook->do_action, WP_Hook->apply_filters, WC_AJAX::checkout, WC_Checkout->process_checkout, WC_Checkout->process_order_payment, WC_myghpay_client->process_payment, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
