@@ -1,0 +1,19 @@
+
+---Downloaded files---
+The import files for: Elementor Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://rapidticketguru.com
+Data file = /home2/eddygld/public_html/wp-content/uploads/2020/04/demo-content-import-file_2020-04-15__18-03-41.xml
+Widget file = /home2/eddygld/public_html/wp-content/uploads/2020/04/demo-widgets-import-file_2020-04-15__18-03-41.json
+Customizer file = /home2/eddygld/public_html/wp-content/uploads/2020/04/demo-customizer-import-file_2020-04-15__18-03-41.dat
+
+------
+Completed AJAX call number: 1
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 2
+[WARNING] Failed to import action-group woocommerce-db-updates
+

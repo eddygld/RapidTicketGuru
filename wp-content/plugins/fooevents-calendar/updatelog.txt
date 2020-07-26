@@ -1,0 +1,49 @@
+
+UPDATE LOG
+
+------------------
+1.5.17
+FIXED: Various small bugs
+TESTED ON: WordPress 5.4.2 and WooCommerce 4.2.2
+
+1.5.16
+FIXED: Eventbrite API bugs
+FIXED: Various other small bugs
+TESTED ON: WordPress 5.4.2 and WooCommerce 4.2.2
+
+1.5.14
+FIXED: Various small bugs
+TESTED ON: WordPress 5.4.1 and WooCommerce 4.2.0
+
+1.5.11
+FIXED: Various small bugs
+TESTED ON: WordPress 5.4 and WooCommerce 4.0.1
+
+1.5.10
+FIXED: Various small bugs
+TESTED ON: WordPress 5.4 and WooCommerce 4.0.1
+
+1.5.9
+ADDED: Support for event timezone setting
+FIXED: Various small bugs
+
+1.5.6
+FIXED: Wrong settings link on plugins page
+FIXED: Eventbrite array association bug
+FIXED: Fatal error when WooCommerce is not active
+FIXED: Various other small bugs
+
+1.5.3
+FIXED: French month bug
+
+1.5.1
+FIXED: JavaScript tooltip conflict
+
+1.5.0
+NEW: Support for new reporting features
+FIXED: Various small bugs
+
+1.4.21
+FIXED: Multi-day display bug 
+FIXED: Event grouping to today bug
+FIXED: Various other small bugs

@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fooevents_pdf_tickets\n"
+"POT-Creation-Date: 2020-02-19 15:36+0200\n"
+"PO-Revision-Date: 2020-04-29 12:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: fooevents-pdf-tickets.php:191
+msgid ""
+"The FooEvents PDF Tickets plugin requires FooEvents for WooCommerce to be "
+"installed."
+msgstr ""
+
+#: fooevents-pdf-tickets.php:205
+msgid ""
+"GD libraries is not enabled on your server. This is a requirement for "
+"FooEvents PDF tickets. Please contact your host to enable this."
+msgstr ""
+
+#: fooevents-pdf-tickets.php:211
+msgid ""
+"The setting allow_url_fopen is not enabled on your server. This is a "
+"requirement for FooEvents PDF tickets. Please contact your host to enable "
+"this."
+msgstr ""
+
+#: fooevents-pdf-tickets.php:217
+msgid ""
+"The PHP MBstring module is not enabled on your server. This is a requirement "
+"for FooEvents PDF tickets. Please contact your host to enable this."
+msgstr ""
+
+#: fooevents-pdf-tickets.php:261
+msgid " PDF Tickets"
+msgstr ""
+
+#: fooevents-pdf-tickets.php:272
+msgid ""
+"Your tickets are attached. Please print them out and show them when you "
+"arrive at the event."
+msgstr ""
+
+#: fooevents-pdf-tickets.php:278
+msgid ""
+"Please print out your tickets in standard A4 portrait size and show them "
+"when you arrive at the event. Note: Incorrect sizing could affect barcode "
+"scanning."
+msgstr ""
+
+#: fooevents-pdf-tickets.php:536 templates/ticket-list.php:1
+msgid "Tickets"
+msgstr ""
+
+#: templates/default_pdf_multiple/ticket.php:20
+#: templates/default_pdf_multiple/ticket.php:24
+#: templates/default_pdf_multiple/ticket.php:85
+#: templates/default_pdf_single/ticket.php:20
+#: templates/default_pdf_single/ticket.php:24
+#: templates/default_pdf_single/ticket.php:85
+msgid "Preview Event"
+msgstr ""
+
+#: templates/default_pdf_multiple/ticket.php:52
+#: templates/default_pdf_multiple/ticket.php:98
+#: templates/default_pdf_single/ticket.php:52
+#: templates/default_pdf_single/ticket.php:98
+msgid "Date:"
+msgstr ""
+
+#: templates/default_pdf_multiple/ticket.php:55
+#: templates/default_pdf_multiple/ticket.php:101
+#: templates/default_pdf_single/ticket.php:55
+#: templates/default_pdf_single/ticket.php:101
+msgid "Time:"
+msgstr ""
+
+#: templates/default_pdf_multiple/ticket.php:63
+#: templates/default_pdf_multiple/ticket.php:110
+#: templates/default_pdf_single/ticket.php:63
+#: templates/default_pdf_single/ticket.php:110
+msgid "Location:"
+msgstr ""
+
+#: templates/default_pdf_multiple/ticket.php:66
+#: templates/default_pdf_multiple/ticket.php:113
+#: templates/default_pdf_single/ticket.php:66
+#: templates/default_pdf_single/ticket.php:113
+msgid "Directions:"
+msgstr ""
+
+#: templates/default_pdf_multiple/ticket.php:118
+#: templates/default_pdf_single/ticket.php:118
+msgid "Ticket Number:"
+msgstr ""
+
+#: templates/default_pdf_multiple/ticket.php:121
+#: templates/default_pdf_single/ticket.php:121
+msgid "Ticket Holder:"
+msgstr ""
+
+#: templates/default_pdf_multiple/ticket.php:124
+#: templates/default_pdf_single/ticket.php:124
+msgid "Telephone Number:"
+msgstr ""
+
+#: templates/default_pdf_multiple/ticket.php:128
+#: templates/default_pdf_single/ticket.php:128
+msgid "Company:"
+msgstr ""
+
+#: templates/default_pdf_multiple/ticket.php:132
+#: templates/default_pdf_single/ticket.php:132
+msgid "Designation:"
+msgstr ""
+
+#: templates/default_pdf_multiple/ticket.php:165
+#: templates/default_pdf_single/ticket.php:165
+msgid "Price:"
+msgstr ""
+
+#: templates/default_pdf_multiple/ticket.php:189
+#: templates/default_pdf_single/ticket.php:189
+msgid "Add to calendar"
+msgstr ""
+
+#: templates/pdf-options.php:4
+msgid "PDF Tickets"
+msgstr ""
+
+#: templates/pdf-options.php:9
+msgid "Enable PDF tickets"
+msgstr ""
+
+#: templates/pdf-options.php:12
+msgid "Adds PDF ticket attachments to ticket emails."
+msgstr ""
+
+#: templates/pdf-options.php:16
+msgid "Enable PDF ticket downloads"
+msgstr ""
+
+#: templates/pdf-options.php:19
+msgid ""
+"Allows purchasers to download a copy of their PDF tickets from the My "
+"Account page."
+msgstr ""
+
+#: templates/pdf-options.php:23
+msgid "Attach PDF ticket to HTML ticket email"
+msgstr ""
+
+#: templates/pdf-options.php:26
+msgid "Attaches the PDF ticket to the HTML ticket email when sent."
+msgstr ""
+
+#: templates/pdf-ticket-options.php:1
+msgid "PDF settings"
+msgstr ""
+
+#: templates/pdf-ticket-options.php:5
+msgid "Email text:"
+msgstr ""
+
+#: templates/pdf-ticket-options.php:12
+msgid "Ticket footer text:"
+msgstr ""
+
+#: templates/pdf-ticket-theme-options.php:3
+msgid "PDF ticket theme:"
+msgstr ""
+
+#: templates/pdf-ticket-theme-options.php:9
+msgid ""
+"Select the PDF compatible ticket theme that will be used to style the PDF "
+"tickets that are attached to ticket emails."
+msgstr ""
+
+#: templates/ticket-list.php:16
+msgid "Download"
+msgstr ""
